@@ -5,3 +5,4 @@ console.table(numeros)
 
 console.log[1]
 console.log[2]
+

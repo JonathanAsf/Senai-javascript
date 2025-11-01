@@ -1,6 +1,6 @@
 // function nomeDaFuncao(){
-// }
+//}
 
-function dizerOla(){
+function somar(){
     console.log("Olá!")
 }

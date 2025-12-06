@@ -15,6 +15,4 @@ fetch("https://jsonplaceholder.typicode.com/users")
             telefone.innerText = data[0].phone
             rua.innerText = data[0].address.street
             cidade.innerText = data[0].address.city
-
-
     })

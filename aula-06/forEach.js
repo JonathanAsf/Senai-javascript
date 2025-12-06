@@ -3,6 +3,10 @@ let nomes = [
   "Gabriel", "Isabela", "Ricardo", "Camila", "Felipe", "Larissa", "Marcos", "Amanda", 
 ]
 
-nomes.forEach(function(elemento){
+nomes.forEach((elemento) => {
     console.log (`Olá, ${elemento}`);
 })
+
+// nomes.forEach(function(elemento){
+//     console.log (`Olá, ${elemento}`);
+// })

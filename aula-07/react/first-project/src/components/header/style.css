@@ -1,0 +1,18 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #010101;
+}
+
+header h1{
+    color: white;
+    font-size: 30px;
+}
+
+header button {
+    background-color: #efbd08;
+    padding: 10px;
+    border-radius: 10px;
+}

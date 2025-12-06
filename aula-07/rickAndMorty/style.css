@@ -17,6 +17,10 @@ header img {
   width: 90px;
 }
 
+nav{
+  display: flex;
+  gap: 60px;
+}
 nav a {
   text-decoration: none;
   color: white;
@@ -35,6 +39,7 @@ main {
   flex-direction: column;
   gap: 40px;
   text-align: center;
+  margin-top: 20px;
 }
 
 .container-cards {

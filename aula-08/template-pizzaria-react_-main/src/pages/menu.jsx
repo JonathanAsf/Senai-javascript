@@ -9,7 +9,6 @@ export const Menu = () => {
         <>
             <Header/>
             <MenuSection/>
-            <HighlightsSection/>
             <Footer/>
         </>
     )

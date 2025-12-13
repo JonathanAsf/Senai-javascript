@@ -1,7 +1,13 @@
+import { Footer } from "../components/footer"
+import { Header } from "../components/header"
+import { ContactSection } from "../components/pageContact/contact-section"
+
 export const Contact = () => {
     return(
         <>
-            <h1>Página de Contato</h1>
+            <Header/>
+            <ContactSection/>
+            <Footer/>
         </>
     )
 }

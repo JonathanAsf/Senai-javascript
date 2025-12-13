@@ -1,8 +1,16 @@
+import { Footer } from "../components/footer"
+import { Header } from "../components/header"
+import { HeroSection } from "../components/pageHome/hero-section"
+import HighlightsSection from "../components/pageHome/highlights-section"
+
 export const Home = () =>  {
 
   return (
     <>
-      <h1>Página Home</h1>
+      <Header/>
+      <HeroSection/>
+      <HighlightsSection/>
+      <Footer/>
     </>
   )
 }
